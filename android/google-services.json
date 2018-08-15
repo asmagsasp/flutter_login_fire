@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "81449737796",
+    "firebase_url": "https://baby-names-app-db-6edb2.firebaseio.com",
+    "project_id": "baby-names-app-db-6edb2",
+    "storage_bucket": "baby-names-app-db-6edb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81449737796:android:45c8a7cba37d2cce",
+        "android_client_info": {
+          "package_name": "asmag.com.br.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81449737796-u33s7ihlrv8cb1s0uibn2q5sbanuil6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjjii4In-QqrYICay6BhoH8zZdPcquJaM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81449737796:android:1e36ebb1ee268798",
+        "android_client_info": {
+          "package_name": "asmag.com.flutterloginfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81449737796-u33s7ihlrv8cb1s0uibn2q5sbanuil6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjjii4In-QqrYICay6BhoH8zZdPcquJaM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
