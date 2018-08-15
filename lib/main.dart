@@ -54,7 +54,7 @@ class _MyHomePageState extends State<MyHomePage> {
     } else if (Platform.isAndroid) {
       // Anonymous auth does show up as a provider on Android
       assert(user.providerData.length == 1);
-      assert(user.providerData[0].providerId == 'firebase');
+      assert(user.providerData[0].providerId == 'baby-names-app-db-6edb2');
       assert(user.providerData[0].uid != null);
       assert(user.providerData[0].displayName == null);
       assert(user.providerData[0].photoUrl == null);
